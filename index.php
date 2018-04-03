@@ -102,7 +102,7 @@
 		<div>
 			<center>
 				<h4>
-					<b>
+					<b id="str1">
 						Con más de 30 años de experiencia ayudando a las mejores <br> 
 						marcas en el mundo adoptando las mejores prácticas digitales <br> 
 						y a la tecnología de marketing y ventas, sabemos cómo ayudar a <br> 
@@ -112,14 +112,14 @@
 				</h4>
 				<img width="50" src="imagenes/linearosa.png">
 				<br><br>
-				<h5>
+				<h5 id="str2">
 					Demand Frontier nació fuera de la necesidad de llevar un cambio de paradigma <br>
 					a la forma en que las organizaciones de marketing empresarial impulsan y <br> 
 					alimentan sus estrategias de marketing y crecimiento.
 				</h5>
 				<br><br><br><br>
 				<h4>
-					<b>
+					<b id="str3">
 						ES UNA NUEVA FRONTERA <br>
 						Y TENEMOS SU RESPALDO
 					</b>
@@ -143,7 +143,7 @@
 				<br><br><br>
 				<h3><b>Éste es un cambio de juego</b></h3>
 				<br><br>
-				<h4><b> SERVICIOS </b></h4>
+				<h4><b id="str4"> SERVICIOS </b></h4>
 				<img width="9%" src="imagenes/linearosa2.png">
 				<br><br>
 				<h4>¿Luchando por hacer todo? ¿No sabes por dónde empezar? Te cubrimos.</h4>
@@ -151,7 +151,7 @@
 				<table width="1000">
 					<tr>
 						<td>
-							<h4><b>PLANIFICACIÓN ESTRATÉGICA</b></h4>
+							<h4><b id="str5">PLANIFICACIÓN ESTRATÉGICA</b></h4>
 							<img width="73%" src="imagenes/linearosa2.png">
 							<br><br>
 							<h5>
@@ -165,7 +165,7 @@
 					<tr>
 						<td><img width="500" src="imagenes/img2.png"></td>
 						<td>
-							<h4><b>AGENCIA CREATIVA DE SERVICIOS</b></h4>
+							<h4><b id="str6">AGENCIA CREATIVA DE SERVICIOS</b></h4>
 							<img width="80%" src="imagenes/linearosa2.png">
 							<br><br>
 							<h5>
@@ -177,7 +177,7 @@
 					</tr>
 					<tr>
 						<td>
-							<h4><b>SOPORTE DE TECNOLOGÍA DE MARKETING</b></h4>
+							<h4><b id="str7">SOPORTE DE TECNOLOGÍA DE MARKETING</b></h4>
 							<img width="99%" src="imagenes/linearosa2.png">
 							<br><br>
 							<h5>
@@ -191,7 +191,7 @@
 					<tr>
 						<td><img width="500" src="imagenes/img4.png"></td>
 						<td>
-							<h4><b>METODOLOGÍA Y SERVICIOS</b></h4>
+							<h4><b id="str8">METODOLOGÍA Y SERVICIOS</b></h4>
 							<img width="65%" src="imagenes/linearosa2.png">
 							<br><br>
 							<h5>

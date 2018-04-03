@@ -102,7 +102,7 @@
 		<div>
 			<center>
 				<h4>
-					<b>
+					<b id="str1">
 						With over 30 years of experience in helping the best brands <br> 
 						in the world adopt digital best practices and marketing and <br>
 						sales technology, we know how to help your team evolve faster <br>
@@ -112,14 +112,14 @@
 				</h4>
 				<img width="50" src="../../imagenes/linearosa.png">
 				<br><br>
-				<h5>
+				<h5 id="str2">
 					Demand Frontier was born out of the need to bring a paradigm shift <br> 
 					to how enterprise marketing organizations power and fuel their <br>
 					marketing and growth strategies.
 				</h5>
 				<br><br><br><br>
 				<h4>
-					<b>
+					<b id="str3">
 						IT'S A NEW FRONTIER <br>
 						AND WE HAVE YOUR BACK
 					</b>
@@ -143,7 +143,7 @@
 				<br><br><br>
 				<h3><b>This is a game changer</b></h3>
 				<br><br>
-				<h4><b> SERVICES </b></h4>
+				<h4><b id="str4"> SERVICES </b></h4>
 				<img width="9%" src="../../imagenes/linearosa2.png">
 				<br><br>
 				<h4>Struggling to get everything done? Don’t know where to start? We’ve got your back.</h4>
@@ -151,7 +151,7 @@
 				<table width="1000">
 					<tr>
 						<td>
-							<h4><b>STRATEGIC PLANNING</b></h4>
+							<h4><b id="str5">STRATEGIC PLANNING</b></h4>
 							<img width="53%" src="../../imagenes/linearosa2.png">
 							<br><br>
 							<h5>
@@ -165,7 +165,7 @@
 					<tr>
 						<td><img width="500" src="../../imagenes/img2.png"></td>
 						<td>
-							<h4><b>CREATIVE AGENCY SERVICES</b></h4>
+							<h4><b id="str6">CREATIVE AGENCY SERVICES</b></h4>
 							<img width="65%" src="../../imagenes/linearosa2.png">
 							<br><br>
 							<h5>
@@ -177,7 +177,7 @@
 					</tr>
 					<tr>
 						<td>
-							<h4><b>MARKETING TECHNOLOGY SUPPORT</b></h4>
+							<h4><b id="str7">MARKETING TECHNOLOGY SUPPORT</b></h4>
 							<img width="83%" src="../../imagenes/linearosa2.png">
 							<br><br>
 							<h5>
@@ -191,7 +191,7 @@
 					<tr>
 						<td><img width="500" src="../../imagenes/img4.png"></td>
 						<td>
-							<h4><b>METHODOLOGY AND SERVICES</b></h4>
+							<h4><b id="str8">METHODOLOGY AND SERVICES</b></h4>
 							<img width="75%" src="../../imagenes/linearosa2.png">
 							<br><br>
 							<h5>
